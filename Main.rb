@@ -11,7 +11,7 @@ include Impressao
 
 obj1 = Pessoa.new("pessoa", 45)
 obj1.rir
-obj1.rir_diferente("aaaaaaaaaaaaaaaaaaaaaaaa")
+obj1.rir_diferente("hahahaha")
 resultado = obj1.agradecer
 puts resultado
 
